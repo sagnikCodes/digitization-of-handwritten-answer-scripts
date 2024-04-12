@@ -12,6 +12,7 @@ The task involves developing a deep learning model to facilitate the digitizatio
 | spelling-correction               | Directory containing notebook related to spelling correction. |
 | word-recognition                  | Directory containing notebook related to word recognition. |
 | word-segmentation                 | Directory containing notebook related to word segmentation. |
+| report.pdf                 | Project report. |
 
 ## Instructions
 - To view the outputs, import the notebook `handwritten-answer-scripts-digitization.ipynb` in Kaggle (with GPUs).
